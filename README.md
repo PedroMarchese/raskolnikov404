@@ -1,10 +1,13 @@
-<h1>Hi, i'm <a  href="https://github.com/Raskolnikov404/">Raskolnikov. </a> <img  src="https://www.gamerview.com.br/wp-content/uploads/2019/12/dark-souls.gif" width="50px"></h1>
+<h1>Hi, I'm <a href="https://github.com/Raskolnikov404/">Pedro H. Marchese. </a> <img src="https://www.gamerview.com.br/wp-content/uploads/2019/12/dark-souls.gif" width="50px"></h1>
 
-You'd not be here, but ok. I'm a Dark Souls lover and like to code on my free time.<br>
-- Student of physiotherapy <br>
-- Like open source & Linux <br>
-- 3D artist <br>
-- Not looking for any professional kind of stuff <br>
+I'm a Dark Souls lover and I like to code in my free time.
+
+- Student of Physiotherapy at PUCRS, Brazil;
+- An open-source enthusiast (when possible);
+- About 3 years of experience in rendering and modeling with Blender, Substance Painter and ZBrush;
+- I also worked for 3 years with microproteins, more specifically on structural disorder;
+- Currently, I'm working with Gerontology and I'm interested in pursuing the Data Science field;
+- Finally, I'm involved in Manual Therapy, specifically in Osteopathy.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/><img src="https://img.icons8.com/color/48/000000/python--v1.png"/><img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png"/>
